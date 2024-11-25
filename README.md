@@ -1,4 +1,4 @@
-# HyperNIA
+# HyperNear
 
 ## Train
 
