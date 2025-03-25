@@ -1,6 +1,6 @@
 """
 Node Injection Attack
-@author: caiman
+@author: 
 date: 2024/7/31
 """
 
