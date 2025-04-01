@@ -1,5 +1,7 @@
 # HyperNear
 
+The code we currently have on GitHub is the version we used for the experiments. We will release a cleaner, easier-to-run version of the code later on. 🙂
+
 ## Train
 
 ```bash
