@@ -1,6 +1,11 @@
 # HyperNear
+This is the official pytorch implementation of the paper "HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks, ICML2025"
 
-The code we currently have on GitHub is the version we used for the experiments. We will release a cleaner, easier-to-run version of the code later on. 🙂
+![model](https://github.com/ca1man-2022/HyperNear/blob/main/model.png)
+
+Also, we provide an appendix [here](https://github.com/ca1man-2022/HyperNear/blob/main/Appendix_HyperNear.pdf).
+
+>The code we currently have on GitHub is the version we used for the experiments. We will release a cleaner, easier-to-run version of the code later on. 🙂
 
 ## Train
 
