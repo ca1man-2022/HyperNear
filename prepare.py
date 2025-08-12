@@ -1,7 +1,8 @@
 """
 Helper functions of HyperNIA(HyperNear)
 root: ../code/Attack/HyperNIA
-@author: TingyiCai
+@author: Tingyi
+It contains the source code for the paper [_UniGNN: a Unified Framework for Graph and Hypergraph Neural Networks_](https://arxiv.org/abs/2105.00956), accepted by IJCAI 2021.
 """
 from model import *
 import torch, numpy as np, scipy.sparse as sp
