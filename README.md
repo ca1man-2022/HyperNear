@@ -5,7 +5,7 @@ This is the official pytorch implementation of the paper "HyperNear: Unnoticeabl
 
 Also, we provide an appendix [here](https://github.com/ca1man-2022/HyperNear/blob/main/Appendix_HyperNear.pdf).
 
->The code we currently have on GitHub is the version we used for the experiments. We will release a cleaner, easier-to-run version of the code later on. 🙂
+*Thank you for your interest in our work! The authors are currently engaged in other projects but are working to tidy up and release a more readable and fully reproducible version of the code by October.*
 
 ## Train
 
