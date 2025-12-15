@@ -28,3 +28,15 @@ python train_NIA.py --method UniGCNII --n-runs 5
 ```python
 python train_NIA.py --method HyperGCN --n-runs 5
 ```
+
+## Citation
+
+If you find this work useful, please consider citing our paper:
+
+```bibtex
+@inproceedings{cai2025hypernear,
+  title     = {HyperNear: Unnoticeable Node Injection Attacks on Hypergraph Neural Networks},
+  author    = {Tingyi Cai and Yunliang Jiang and Ming Li and Lu Bai and Changqin Huang and Yi Wang},
+  booktitle = {Proceedings of the International Conference on Machine Learning},
+  year      = {2025}
+}
